@@ -13,4 +13,5 @@ This project includes the use of "MMA.py" from the repository [GCMMA-MMA-Python]
 The MMA.py contains the Python code of the Method of Moving Asymptotes (Svanberg, 1987), originally developed in MATLAB by Krister Svanberg.
 
 Original work written in MATLAB: Copyright (c) 2006-2009 Krister Svanberg
+
 Derived Python implementation: Copyright (c) 2020-2024 Arjen Deetman
